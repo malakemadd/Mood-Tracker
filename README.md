@@ -1,7 +1,7 @@
 # Mood-Tracker
 
 A Desktop C# application to track and analyze daily moods, gain insights from personalized recommendations, and visualize your emotional journey over time.
-
+https://github.com/malakemadd/Mood-Tracker/issues/1
 ## Features
 
 ### 1️⃣ Mood History
